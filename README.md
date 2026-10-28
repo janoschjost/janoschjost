@@ -1,10 +1,6 @@
 <p align="center">
-  <a href="https://janosch-jost.ch">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
-      <img src="logo-light.svg" alt="Janosch Jost" width="279">
-    </picture>
-  </a>
+  <img src="logo-light.svg#gh-light-mode-only" alt="Janosch Jost" width="279">
+  <img src="logo-dark.svg#gh-dark-mode-only" alt="Janosch Jost" width="279">
 </p>
 
 <p align="center">
